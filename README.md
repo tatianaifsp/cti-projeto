@@ -13,7 +13,7 @@ Este sistema consolida os conhecimentos práticos e teóricos das seguintes disc
 
 - **Frameworks Front-end:** Interface de usuário e experiência de navegação.
 - **Desenvolvimento Back-end:** Regras de negócio, APIs e persistência de dados.
-- **Ciência de Dados:** Análise preditiva, tratamento de dados e inteligência de negócio.
+- **Ciência de Dados:** Análise de dados (ETL), tratamento de dados e inteligência de negócio.
 - **Automação Industrial:** Monitoramento físico e integração com sensores/IoT.
 - **Computação em Nuvem:** Infraestrutura, deploy, escalabilidade e serviços cloud.
 - **Relações Humanas e Cidadania:** Conformidade com a LGPD, acessibilidade e impacto social.
