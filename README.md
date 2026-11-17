@@ -1,6 +1,6 @@
 # CTI Insights
 
-Desenvolvido como projeto integrador das unidades curriculares **Frameworks Front-end**, **Desenvolvimento Back-end**, **Ciência de Dados**, **Automação Industrial**, **Computação em Nuvem** e **Relações Humanas e Cidadania** do curso de Análise e Desenvolvimento de Sistemas do **SENAI**, a partir da SAG (Situação de Aprendizagem) proposta para a empresa Provedor CTI.
+Desenvolvido como projeto integrador do Segundo Semestre/2026 das unidades curriculares **Frameworks Front-end**, **Desenvolvimento Back-end**, **Ciência de Dados**, **Automação Industrial**, **Computação em Nuvem** e **Relações Humanas e Cidadania** do curso de Análise e Desenvolvimento de Sistemas do **SENAI**, a partir da SAG (Situação de Aprendizagem) proposta para a empresa Provedor CTI.
 
 Aplicação web para validação e análise das planilhas comerciais da **Provedor CTI**. O usuário envia a planilha de clientes, vê os erros antes do envio e acompanha os indicadores da carteira em um dashboard. Somente dados válidos são gravados.
 
