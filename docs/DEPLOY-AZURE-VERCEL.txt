@@ -24,8 +24,7 @@ Central de Implantação = Deployment Center.
 ---------------------------------------------------------------------
  VISÃO GERAL: O QUE É O DEPLOY
 ---------------------------------------------------------------------
-Deploy é tirar o sistema do seu computador e colocar na internet.
-Depois, qualquer pessoa abre um link e usa, com seu PC desligado.
+Deploy é tirar o sistema do seu computador e colocar na internet. Em outras palavras colocar em produção.
 
   Parte    Hoje (seu computador)            Depois (internet)
   -------  -------------------------------  ------------------------------------------
