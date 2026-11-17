@@ -128,7 +128,7 @@ npm install
 npm run dev
 ```
 
-**4. Acessar** http://localhost:5173 com o administrador definido no `.env` do back-end (padrão: `admin@cti.local` / `Admin@12345`).
+**4. Acessar** http://localhost:5173 com o administrador definido no `.env` do back-end .
 
 ---
 
