@@ -308,8 +308,8 @@ JWT_SECRET=invente-um-segredo-com-pelo-menos-32-caracteres
 CORS_ORIGINS=http://localhost:5173
 
 # ---- Administrador (criado sozinho na primeira vez) ----
-ADMIN_EMAIL=admin@cti.local
-ADMIN_PASSWORD=Admin@12345
+ADMIN_EMAIL=
+ADMIN_PASSWORD=
 
 # ---- Python (ETL) ----
 # Depois de cada upload, o Spring ENVIA as linhas válidas ao serviço Python (API FastAPI); o Python limpa, calcula e grava no Azure.
