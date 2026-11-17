@@ -471,8 +471,8 @@ app.cors.origins=${CORS_ORIGINS:http://localhost:5173}
 
 # ---- Administrador criado na primeira vez ----
 app.admin.nome=${ADMIN_NOME:Administrador}
-app.admin.email=${ADMIN_EMAIL:admin@cti.local}
-app.admin.senha=${ADMIN_PASSWORD:Admin@12345}
+app.admin.email=${ADMIN_EMAIL:}
+app.admin.senha=${ADMIN_PASSWORD:}
 
 # ---- Upload ----
 # máximo de linhas por planilha
