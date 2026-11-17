@@ -1,6 +1,3 @@
-# CTI Insights
-
-#  Provedor CTI
 
 ![SENAI](https://img.shields.io/badge/SENAI-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-blue?style=for-the-badge)
 ![Semestre](https://img.shields.io/badge/Per%C3%ADodo-2%C2%BA%20Semestre%2F2026-informational?style=for-the-badge)
