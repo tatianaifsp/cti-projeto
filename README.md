@@ -1,6 +1,25 @@
 # CTI Insights
 
-Desenvolvido como projeto integrador do Segundo Semestre/2026 das unidades curriculares **Frameworks Front-end**, **Desenvolvimento Back-end**, **Ciência de Dados**, **Automação Industrial**, **Computação em Nuvem** e **Relações Humanas e Cidadania** do curso de Análise e Desenvolvimento de Sistemas do **SENAI**, a partir da SAG (Situação de Aprendizagem) proposta para a empresa Provedor CTI.
+#  Provedor CTI
+
+![SENAI](https://img.shields.io/badge/SENAI-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-blue?style=for-the-badge)
+![Semestre](https://img.shields.io/badge/Per%C3%ADodo-2%C2%BA%20Semestre%2F2026-informational?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
+
+ **Projeto Integrador** desenvolvido no 2º semestre de 2026 para o curso de **Análise e Desenvolvimento de Sistemas (ADS)** do **SENAI**, baseado na Situação de Aprendizagem (SAG) proposta pela empresa **Provedor CTI**.
+
+---
+
+## Unidades Curriculares Integradas
+
+Este sistema consolida os conhecimentos práticos e teóricos das seguintes disciplinas:
+
+- **Frameworks Front-end:** Interface de usuário e experiência de navegação.
+- **Desenvolvimento Back-end:** Regras de negócio, APIs e persistência de dados.
+- **Ciência de Dados:** Análise preditiva, tratamento de dados e inteligência de negócio.
+- **Automação Industrial:** Monitoramento físico e integração com sensores/IoT.
+- **Computação em Nuvem:** Infraestrutura, deploy, escalabilidade e serviços cloud.
+- **Relações Humanas e Cidadania:** Conformidade com a LGPD, acessibilidade e impacto social.
 
 Aplicação web para validação e análise das planilhas comerciais da **Provedor CTI**. O usuário envia a planilha de clientes, vê os erros antes do envio e acompanha os indicadores da carteira em um dashboard. Somente dados válidos são gravados.
 
