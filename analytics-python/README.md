@@ -2,7 +2,11 @@
 
 Serviço em **Python** responsável pelo ETL do CTI Insights. Recebe do back-end as linhas já validadas, padroniza os dados, calcula os indicadores estatísticos da carteira, gera as análises em texto e grava tudo no PostgreSQL. O dashboard do front-end exibe o resultado gravado por este serviço.
 
-**Produção:** https://cti-python.onrender.com/saude
+| | Endereço |
+|---|---|
+| Serviço em produção | https://cti-python.onrender.com/saude |
+| Documentação da API (Swagger) | https://cti-python.onrender.com/docs |
+| Documentação da API (ReDoc) | https://cti-python.onrender.com/redoc |
 
 ## Tecnologias
 
@@ -87,7 +91,12 @@ Gera frases em português a partir dos indicadores, exibidas no dashboard:
 
 ## API
 
-A documentação interativa (Swagger) fica disponível em `/docs` com o serviço em execução.
+O FastAPI gera duas documentações da API automaticamente:
+
+| Documentação | Uso | Produção | Local |
+|---|---|---|---|
+| Swagger UI | Consultar as rotas e testá-las pelo navegador | https://cti-python.onrender.com/docs | http://localhost:8000/docs |
+| ReDoc | Leitura da especificação, com os modelos de dados de cada rota | https://cti-python.onrender.com/redoc | http://localhost:8000/redoc |
 
 | Método | Rota | Função |
 |---|---|---|
@@ -169,7 +178,7 @@ O script `testar_conexao.py` verifica se as credenciais do `.env` dão acesso ao
 
 ### 2. Processamento sem gravar
 
-Com o serviço em execução, abra `/docs`, escolha a rota `POST /testar` e envie o conteúdo de `amostras/clientes.json`. A resposta traz os indicadores calculados, e nada é gravado no banco. É a forma mais rápida de conferir mudanças na limpeza ou nos cálculos.
+Com o serviço em execução, abra o Swagger (https://cti-python.onrender.com/docs ou http://localhost:8000/docs), escolha a rota `POST /testar` e envie o conteúdo de `amostras/clientes.json`. A resposta traz os indicadores calculados, e nada é gravado no banco. É a forma mais rápida de conferir mudanças na limpeza ou nos cálculos.
 
 ### 3. Teste integrado
 
