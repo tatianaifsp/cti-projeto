@@ -20,7 +20,7 @@
 
 ## O que o backend faz
 
-O backend é a **camada de segurança e de regras de negócio** do sistema. Ele fica entre o site (Vue) e o serviço de dados (Python) e faz só três coisas:
+O backend é a **camada de segurança e de regras de negócio** do sistema. Ele fica entre o site (Vue) e o serviço de dados (Python) e faz só três :
 
 | # | Responsabilidade | Como | Grava no banco? |
 |---|---|---|---|
